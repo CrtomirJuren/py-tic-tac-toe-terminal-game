@@ -1,0 +1,3 @@
+spaghetti code here :)
+whatever scripts that help you learn new code. and test it before adding it to main project.
+stack overflow examples and so on ...
