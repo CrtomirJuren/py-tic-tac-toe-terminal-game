@@ -82,6 +82,7 @@ ___
 - DONT DO THIS --> from constants import * . USE --> import constants
 - Know source of every function and constant. BETTER TO USE constants.DEBUG, than just DEBUG
 
+<!---
 ### RUNNING TESTS
 ___
 
@@ -95,7 +96,7 @@ ___
 - > tic-tac-toe-terminal\3 pro>python -m unittest test.test_baord
 - > tic-tac-toe-terminal\3 pro>python -m unittest test.test_game
 
-<!---
+
 0.arhitekturo samo razložim ker je komplicirana:
 - logging module
 - keypress interrupt
